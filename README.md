@@ -1,4 +1,4 @@
-help
-====
+One tsp. Help (FAQs)
+====================
 
-FAQs for One tsp.
+FAQs for using onetsp.com.
